@@ -1,0 +1,5 @@
+.hero-unit-with-background-image {
+	background-image: url("http://farm5.staticflickr.com/4026/4422442595_c8e63a89bc_b.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
